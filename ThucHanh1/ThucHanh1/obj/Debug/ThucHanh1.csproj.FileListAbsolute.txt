@@ -1,0 +1,16 @@
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\bin\Debug\ThucHanh1.exe.config
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\bin\Debug\ThucHanh1.exe
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\bin\Debug\ThucHanh1.pdb
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\bin\Debug\System.Data.SqlClient.dll
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\bin\Debug\System.Data.SqlClient.xml
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.AssemblyReference.cache
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.SuggestedBindingRedirects.cache
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.Properties.Resources.resources
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.GenerateResource.cache
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.CoreCompileInputs.cache
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.csproj.CopyComplete
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.exe
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.pdb
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.Form2.resources
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.FHocSinh.resources
+F:\SinhVienNam1\LapTrinhWinform\BTTuan1\ThucHanh1\ThucHanh1\obj\Debug\ThucHanh1.FGiangVien.resources
